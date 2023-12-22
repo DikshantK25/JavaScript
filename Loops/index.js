@@ -7,13 +7,13 @@
   for (let i = 1; i <= 5; i++) {
     console.log(i);
   }
-
+console.log("********************************");
 
   //while loop
 //   while (condition) {
 //     // Code to be executed as long as the condition is true
 //   }
-console.log("********************************");
+
   let i = 1;
 
 while (i <= 5) {
@@ -21,12 +21,17 @@ while (i <= 5) {
   i++;
 }
 
+
+console.log("********************************");
+
+
+
   //do-while
 //   do {
 //     // Code to be executed
 //   } while (condition);
   
-console.log("********************************");
+
 let i1 = 1;
 
 do {
@@ -35,6 +40,8 @@ do {
 } while (i1 <= 5);
 
 console.log("********************************");
+
+
 // for (variable of iterable) {
 //     // Code to be executed in each iteration
 //   }
@@ -46,6 +53,9 @@ for (let color of colors) {
 
 
 console.log("********************************");
+
+
+
 // for (variable in object) {
 //     // Code to be executed in each iteration
 //   }
