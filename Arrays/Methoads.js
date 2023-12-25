@@ -55,3 +55,7 @@ console.log(result2);
 let result3 = fruit.join(" ");
 console.log(result3);
 // Output: "apple banana orange"
+
+
+let str=fruit.toString();//arrays to string
+console.log(str);
