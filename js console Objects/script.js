@@ -68,7 +68,8 @@
 //      console.timeEnd('Timer');
 //      ```
 
-// These methods are useful for debugging, monitoring code execution, and providing feedback during development. You can use them in the browser's developer console to get insights into your JavaScript code.
+// These methods are useful for debugging, monitoring code execution, and providing feedback during development.
+// You can use them in the browser's developer console to get insights into your JavaScript code.
 
 //in table format:
 console.table(console);
