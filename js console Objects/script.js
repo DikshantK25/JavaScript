@@ -1,4 +1,6 @@
-// It seems like you're referring to various functions or methods related to the JavaScript `console` object, commonly used for logging information to the browser's developer console. Here are some commonly used methods of the `console` object:
+// It seems like you're referring to various functions or methods related to the JavaScript `console` object,
+// commonly used for logging information to the browser's developer console.
+//   Here are some commonly used methods of the `console` object:
 
 // 1. **`console.log()`**
 //    - Outputs a message to the console.
