@@ -16,6 +16,9 @@ function getUserChoice() {
   
   function getComputerChoice() {
     // Generate a random number (0, 1, or 2)
+      //for  three input we multiply *3 = 0,1,2 
+      //for  three input we multiply *4 = 0,1,2,3 
+       //for  three input we multiply *5 = 0,1,2,3,4
     const randomNum = Math.floor(Math.random() * 3);
   
     // Map the random number to a choice (0: Snake, 1: Water, 2: Gun)
